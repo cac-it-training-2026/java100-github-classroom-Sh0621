@@ -1,0 +1,10 @@
+/**
+ * 第8章 保育園のお仕事
+ *
+ * 問題3 パッケージを分ける
+ *
+ * 保育園クラスをlesson13_14.challenge03.Nurserry.mainに
+ * 保育士クラスと園児クラスをlesson13_14.challenge03.Nurserry.logic
+ * に分けてください。
+ *
+ */
